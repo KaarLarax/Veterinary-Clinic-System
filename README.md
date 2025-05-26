@@ -4,7 +4,7 @@
 
 ---
 
-##🎓 Contexto académico
+## 🎓 Contexto académico
 Este proyecto fue desarrollado como parte de la asignatura Programación Orientada a Objetos, con el objetivo de aplicar conceptos fundamentales como:
 
 Abstracción y encapsulamiento
