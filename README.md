@@ -42,7 +42,7 @@ Sigue los siguientes pasos para ejecutar el proyecto localmente:
 
 3. Configura la conexión a la base de datos:
    - Crea una base de datos vacía.
-   - Ejecuta el script SQL incluido para generar las tablas necesarias (si aplica).
+   - Ejecuta el script SQL incluido para generar las tablas necesarias o importa la base de datos.
    - Configura las credenciales en el archivo de configuración o en el código fuente.
 
 4. Ejecuta la aplicación.
