@@ -96,21 +96,6 @@ Este proyecto está licenciado bajo la [Apache 2.0 License](./LICENSE).
 
 ---
 
-## 🏷️ Etiquetas recomendadas (GitHub Topics)
-
-Agrega estas etiquetas al repositorio para mejorar su visibilidad:
-
-- `java`
-- `veterinary`
-- `clinic-management`
-- `pet-care`
-- `sql`
-- `desktop-application`
-- `management-system`
-- `veterinary-software`
-
----
-
 ## 📬 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores o deseas mejorar alguna funcionalidad, no dudes en hacer un fork y enviar un pull request.
