@@ -70,7 +70,7 @@ Veterinary-Clinic-System/
 │   ├── views/             # Interfaces de usuario
 │   └── utils/             # Funciones auxiliares
 │
-├── database/              # Scripts SQL (si aplica)
+├── database/              # Scripts SQL y Base de datos SQL
 └── README.md              # Documentación del proyecto
 ```
 
