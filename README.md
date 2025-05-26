@@ -54,7 +54,6 @@ Sigue los siguientes pasos para ejecutar el proyecto localmente:
 - Registro y gestión de clientes y pacientes (mascotas).
 - Control de citas médicas.
 - Registro de tratamientos y diagnósticos.
-- Generación de reportes básicos (si aplica).
 - Interfaz gráfica de usuario (GUI) amigable (JavaSwing).
 
 ---
