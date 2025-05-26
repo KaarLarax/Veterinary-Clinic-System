@@ -58,23 +58,6 @@ Sigue los siguientes pasos para ejecutar el proyecto localmente:
 
 ---
 
-## 📁 Estructura del Proyecto (resumen)
-
-```
-Veterinary-Clinic-System/
-│
-├── src/                   # Código fuente
-│   ├── controllers/       # Controladores
-│   ├── models/            # Modelos de datos
-│   ├── views/             # Interfaces de usuario
-│   └── utils/             # Funciones auxiliares
-│
-├── database/              # Scripts SQL y Base de datos SQL
-└── README.md              # Documentación del proyecto
-```
-
----
-
 ## 🧪 Pruebas
 
 Puedes ejecutar pruebas unitarias (si existen) desde tu IDE o integrarlas con herramientas como JUnit.
